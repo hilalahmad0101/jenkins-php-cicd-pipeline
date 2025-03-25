@@ -1,0 +1,1 @@
+<h1>Hello is the is php website <?php echo date('Y-m-d') ?></h1>
